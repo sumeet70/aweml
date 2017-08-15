@@ -4,7 +4,7 @@
 End to end machine learning pipeline running on Google Cloud Platform
 
 ## Data Processor
-Contains a Cloud Dataflow enabled data pre processing pipeline.
+the folder named data_processing, contains a Cloud Dataflow enabled data pre processing pipeline.
 
 ### Setup storage bucket:
 Create a root storage bucket in your account and then add following folders to it:
